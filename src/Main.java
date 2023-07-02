@@ -4,6 +4,8 @@ public class Main {
         System.out.println("Hello Git!");
 
         System.out.println("First change in cloud repository");
+
+        System.out.println("fix, second commit");
     }
 
 }
